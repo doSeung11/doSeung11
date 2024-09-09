@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###🌱STACK
+###STACK
 <br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-<br/><br/>
-###⚡PROJECT
+<br/><br/><br/><br/>
+###PROJECT
 - [간편결제를 도입한 취미 클래스 플랫폼 "하나펀", 2024.06~2024.07](https://github.com/HanaFun)
 - [생성형 AI 기반 자산 관리 플랫폼 "하나피스", 2024.05~2024.06](https://github.com/orgs/HanaPiece/repositories)
 - [장구 연습을 돕는 AI 모델, 2023.09~2023.12](https://github.com/CSID-DGU/2023-2-CECD3-Release-8)
