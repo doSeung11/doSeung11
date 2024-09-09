@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+
 ###🌱STACK
 <br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -44,4 +44,3 @@ Here are some ideas to get you started:
 - [영화 예매 웹사이트, 2021.10~2021.12](https://github.com/doSeung11/SEI-WebProject)
 - [건축물 인식을 통한 투어 가이드 플랫폼 "TourAid", 2021.03~2021.06]
 
-</div>
